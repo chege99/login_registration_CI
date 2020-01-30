@@ -8,3 +8,7 @@ Built Using Codeigniter 3.1.11
 3. Create a database "db_ci_simple_login"
 4. Run the sql file (database.sql) in in the directory *c/xampp/htdocs/login_registration_ci/database*  
 5. Run *http://localhost/login_registration_ci*
+
+#Screenshots:
+![](assets/img/Capture1.JPG)
+![](assets/img/Capture2.JPG)
